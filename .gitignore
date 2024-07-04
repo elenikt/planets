@@ -1,0 +1,3 @@
+reuslts/
+*.ipynb
+!foo.ipynb     %ignore all jupyter notebooks except for this one
